@@ -297,4 +297,18 @@ public class Util {
 	// System.out.println(getCityCode("太原"));
 	// System.out.println(getHour2Min("09:13"));
 	// }
+	/**
+	 * 保存用户输入的信息
+	 */
+	public static void saveUserInfo(Map<String, Object> map){
+	    
+	}
+	/**
+	 * 读取用户保存的信息
+	 * @return
+	 */
+	public static Map<String, Object> readUserInfo(){
+	    
+	    return null;
+	}
 }
